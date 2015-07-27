@@ -7,11 +7,12 @@ NewsUK Brand colors
 
 ###secondary
 - #086556
-- (8,101,86)
+- rgb(8,101,86)
 
 ##sun
 ###primary
 - #ED1C24
+- C0 M100 Y100 K0
 
 ###Secondary
 - #B90C13
