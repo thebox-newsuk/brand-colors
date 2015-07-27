@@ -7,3 +7,4 @@ NewsUK Brand colors
 
 ###secondary
 - __hex__ #086556
+- __rgb__ 8 101 86
