@@ -3,8 +3,15 @@ NewsUK Brand colors
 
 ##sun-goals
 ###pirmary
-- __hex__ #00745e
+- #00745E
 
 ###secondary
-- __hex__ #086556
-- __rgb__ rgb(8,101,86)
+- #086556
+- (8,101,86)
+
+##sun
+###primary
+- #ED1C24
+
+###Secondary
+- #B90C13
