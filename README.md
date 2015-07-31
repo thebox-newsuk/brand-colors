@@ -2,14 +2,14 @@
 NewsUK Brand colors
 
 ##The Sun Goals
-###pirmary
+###Pirmary
 - #00745e
 
-###secondary
+###Secondary
 - #086556
 
 ##The Sun
-###primary
+###Primary
 - #ed1c24
 
 ###Secondary
