@@ -1,18 +1,23 @@
 # brand-colors
 NewsUK Brand colors
 
-##sun-goals
+##The Sun Goals
 ###pirmary
-- #00745E
+- #00745e
 
 ###secondary
 - #086556
-- rgb(8,101,86)
 
-##sun
+##The Sun
 ###primary
-- #ED1C24
-- C0 M100 Y100 K0
+- #ed1c24
 
 ###Secondary
-- #B90C13
+- #b90c13
+
+##The Sun Perks
+###Primary
+- #8560a8
+
+###Secondary
+- 431c69
