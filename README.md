@@ -1,4 +1,4 @@
-# brand-colors
+# Brand-Colors
 NewsUK Brand colors
 
 ##The Sun Goals
